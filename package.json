@@ -1,0 +1,24 @@
+{
+  "name": "tibia-ring-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "checker.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "puppeteer": "^5.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniFlores/tibia-ring-checker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViniFlores/tibia-ring-checker/issues"
+  },
+  "homepage": "https://github.com/ViniFlores/tibia-ring-checker#readme"
+}
